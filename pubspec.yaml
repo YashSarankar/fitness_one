@@ -1,0 +1,23 @@
+name: fitness_one
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=3.1.2 <4.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.6
+  flutter: 
+    sdk: flutter
+  calendar_date_picker2: ^0.5.3
+
+dev_dependencies: 
+  flutter_lints: ^2.0.0
+  get_cli: ^1.8.4
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  uses-material-design: true
+
